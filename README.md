@@ -5,7 +5,13 @@
 
 ## Option 1: Windows Client and Local Text Editor
 
+This is the easiest to set up, but the least portable and least flexible.
+
 ## Option 2: CodeAnywhere
+
+This is the hardest to set up, but once it is, everything is wonderful.
+
+
 
 **Assumptions:** This assignment assumes that you have already set up a Codeanywhere account and a GitHub account and linked them together.
 
