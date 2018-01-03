@@ -3,6 +3,10 @@
 
 **Purpose:** This purpose of this lab is to gain some passing familiarity with our coursework submission system. You have a few options for how to complete and submit your work. There are two suggested options and both will be demonstrated in class.
 
+## Option 1: Windows Client and Local Text Editor
+
+## Option 2: CodeAnywhere
+
 **Assumptions:** This assignment assumes that you have already set up a Codeanywhere account and a GitHub account and linked them together.
 
 **Part 1 - Cloning the Repository:** Clone this repository into a new workspace in your [codeanywhere](https://codeanywhere.com/) account. Once you are in your workspace, continue on to the next part.
