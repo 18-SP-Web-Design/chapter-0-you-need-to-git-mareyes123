@@ -1,8 +1,7 @@
-
 # Web Page Design - Spring 2018
 ## Lab 0 - You need to Git
 
-**Purpose:** This purpose of this lab is to gain some passing familiarity with our coursework submission system. We will be using [codeanywhere](https://codeanywhere.com/) as our primary workspace since it's convenient, cross-platform, and free, and we will be using GitHub as our version-control/submission platform in conjunction with GitHub Classroom. Follow the instructions in the class closely, because this is how all of your labs will be completed and submitted.
+**Purpose:** This purpose of this lab is to gain some passing familiarity with our coursework submission system. You have a few options for how to complete and submit your work. There are two suggested options and both will be demonstrated in class.
 
 **Assumptions:** This assignment assumes that you have already set up a Codeanywhere account and a GitHub account and linked them together.
 
