@@ -42,9 +42,9 @@ you can work around this.
 1. You can create one empty container and then use git commands to clone
    repositories and push commits (more flexible and better, but a little harder
    to learn).
-  1. [Creating an ssh
+    * [Creating an ssh
   key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-  1. [Adding an ssh key to
+    * [Adding an ssh key to
   GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 Both of these methods will be covered in the first week of class and you will
