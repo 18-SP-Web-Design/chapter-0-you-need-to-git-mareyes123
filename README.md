@@ -3,8 +3,7 @@
 
 **Purpose:** This purpose of this lab is to gain some passing familiarity with
 our coursework submission system. You have a few options for how to complete
-and submit your work. There are two suggested options and both will be
-demonstrated in class.
+and submit your work. There are two suggested options and both will be demonstrated in class.
 
 ## Option 1: Windows Client and a Local Text Editor
 
@@ -43,9 +42,9 @@ you can work around this.
 1. You can create one empty container and then use git commands to clone
    repositories and push commits (more flexible and better, but a little harder
    to learn).
-  a. [Creating an ssh
+  1. [Creating an ssh
   key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-  b. [Adding an ssh key to
+  1. [Adding an ssh key to
   GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 Both of these methods will be covered in the first week of class and you will
