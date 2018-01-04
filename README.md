@@ -20,7 +20,15 @@ This is the easiest to set up, but the least portable and least flexible.
    assignment) is as simple as committing all changes and syncing the
    repository.
 
-We will go over this in class if you wish.
+We will go over this in class as well.
+
+There are more text editors than you'd expect. Pre-installed on library
+computers are [Notepad++](https://notepad-plus-plus.org/) and
+[SublimeText](https://www.sublimetext.com/). Both of these are excellent
+options and highly extensible. The textbook recommends Notepad++. For your
+personal computer, you can use either of these (they are free), or you can find
+a different one if you like. You may even wish to attempt a full-scale IDE like
+WebStorm or Aptana, however, I don't even use those anymore.
 
 ## Option 2: CodeAnywhere and the command line.
 
@@ -45,7 +53,7 @@ be able to choose whichever method you feel most comfortable with.
 
 ## The Assignment
 
-*Instructions:** Create a basic HTML file called `index.html` in this
+**Instructions:** Create a basic HTML file called `index.html` in this
 repository. It should be an informative page about an animal of your choice
 (real or fictional). If you already know a few HTMl tags, feel free to use
 them, but don't sweat it if you don't. This is more about learning git than
